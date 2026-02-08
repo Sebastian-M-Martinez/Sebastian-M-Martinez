@@ -1,16 +1,13 @@
-## Hi there 👋
+¡Hola! Soy Sebastián Matías Martínez 👋
 
-<!--
-**Sebastian-M-Martinez/Sebastian-M-Martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Abogado con 18 años de experiencia que decidió dar el salto al mundo del desarrollo para fusionar ambos mundos. Actualmente estudio la Tecnicatura en Programación en la UTN y busco mi primera oportunidad en el sector IT como Desarrollador Junior / Trainee.
 
-Here are some ideas to get you started:
+🔭 Proyecto actual: Despliegue de la plataforma digital para el Estudio Jurídico Martínez-Rojas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Stack: HTML, CSS, Git, GitHub y fundamentos de lógica de programación al amparo de C++ y Java.
+
+⚖️ Valor agregado: Aporto una visión experta en procesos legales, ideal para empresas de LegalTech o desarrollo de software corporativo.
+
+📫 Contacto: http://www.linkedin.com/in/sebastianmmartinez
+
+#OpenToWork #JuniorDeveloper #LegalTech
